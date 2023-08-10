@@ -1,0 +1,7 @@
+C:\Users\Sir\source\repos\ConsoleEncryptDecrypt\ConsoleEncryptDecrypt\bin\Debug\ConsoleEncryptDecrypt.exe.config
+C:\Users\Sir\source\repos\ConsoleEncryptDecrypt\ConsoleEncryptDecrypt\bin\Debug\ConsoleEncryptDecrypt.exe
+C:\Users\Sir\source\repos\ConsoleEncryptDecrypt\ConsoleEncryptDecrypt\bin\Debug\ConsoleEncryptDecrypt.pdb
+C:\Users\Sir\source\repos\ConsoleEncryptDecrypt\ConsoleEncryptDecrypt\obj\Debug\ConsoleEncryptDecrypt.csproj.AssemblyReference.cache
+C:\Users\Sir\source\repos\ConsoleEncryptDecrypt\ConsoleEncryptDecrypt\obj\Debug\ConsoleEncryptDecrypt.csproj.CoreCompileInputs.cache
+C:\Users\Sir\source\repos\ConsoleEncryptDecrypt\ConsoleEncryptDecrypt\obj\Debug\ConsoleEncryptDecrypt.exe
+C:\Users\Sir\source\repos\ConsoleEncryptDecrypt\ConsoleEncryptDecrypt\obj\Debug\ConsoleEncryptDecrypt.pdb

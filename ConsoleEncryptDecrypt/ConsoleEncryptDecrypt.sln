@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleEncryptDecrypt", "ConsoleEncryptDecrypt\ConsoleEncryptDecrypt.csproj", "{AE7DE179-C71F-4FE9-9931-2A35BD194DBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE7DE179-C71F-4FE9-9931-2A35BD194DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7DE179-C71F-4FE9-9931-2A35BD194DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7DE179-C71F-4FE9-9931-2A35BD194DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7DE179-C71F-4FE9-9931-2A35BD194DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4529F8D-FC15-4D27-9A48-3C6644A7D1E1}
+	EndGlobalSection
+EndGlobal
